@@ -8,7 +8,7 @@ LABEL Author="Mendix Digital Ecosystems"
 LABEL maintainer="digitalecosystems@mendix.com"
 
 # Build-time variables
-ARG BUILD_PATH=project
+ARG BUILD_PATH=\Pipeline-main
 ARG DD_API_KEY
 
 # Checkout CF Build-pack here
@@ -28,6 +28,7 @@ COPY $BUILD_PATH build
 
 # Compile the application source code and remove temp files
 WORKDIR /buildpack
+RUN chmod u+x "/buildpack/compilation"
 RUN "/buildpack/compilation" /build /cache && \
   rm -fr /cache /tmp/javasdk /tmp/opt
 
@@ -38,6 +39,8 @@ EXPOSE $PORT
 RUN mkdir -p "/.java/.userPrefs/com/mendix/core"
 RUN mkdir -p "/root/.java/.userPrefs/com/mendix/core"
 RUN ln -s "/.java/.userPrefs/com/mendix/core/prefs.xml" "/root/.java/.userPrefs/com/mendix/core/prefs.xml"
+RUN apt-get update && apt-get install -y \
+    vim
 
 # Start up application
 COPY scripts/ /build
