@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6575a45-718c-4973-9e3d-f142a90165f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/.mendix-cache/base_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/.mendix-cache/base_rev" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/.mendix-cache/base_ver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/Pipeline.mpr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipeline-main/Pipeline.mpr.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/AUTHORS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/commons-io-2.6.jar.CommunityCommons.RequiredLib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/commons-lang3-3.7.jar.CommunityCommons.RequiredLib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/commons-logging-1.2.jar.CommunityCommons.RequiredLib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/fontbox-2.0.11.jar.CommunityCommons.RequiredLib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/guava-19.0.jar.CommunityCommons.RequiredLib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/owasp-java-html-sanitizer-20180219.1.jar.CommunityCommons.RequiredLib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/pdfbox-2.0.11.jar.CommunityCommons.RequiredLib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/Charts.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/DropDownSort.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/DynamicImage.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/GoogleMaps.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/ListViewControls.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/MobileFeatures.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/ProgressBar.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/ProgressCircle.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/SprintrFeedbackWidget.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/StarRating.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/Switch.mpk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/TimeSeries.mpk" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,22 +36,16 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-1869" />
+    <option name="y" value="-17" />
+    <option name="width" value="1546" />
+    <option name="height" value="868" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
