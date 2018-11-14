@@ -3,7 +3,544 @@
   <component name="ChangeListManager">
     <list default="true" id="d6575a45-718c-4973-9e3d-f142a90165f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/.mendix-cache/base_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/.mendix-cache/base_rev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/.mendix-cache/base_ver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/Pipeline.mpr" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipeline-main/Pipeline.mpr.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/components.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/config.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/index-rtl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/login-with-sso.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/css/custom/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/css/lib/lib.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/custom/_custom-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/custom/custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/_animation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/mixins/_animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/mixins/_groupbox.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/mixins/_layout-spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/base/mixins/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_alignment-block.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_controlgroup.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_formblock.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_heroheader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_master-detail.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_pageblocks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_pageheader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_userprofile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/buildingblocks/_wizard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_backgrounds.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_datagrids.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_dataview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_dijit-widgets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_glyphicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_groupbox.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_layoutgrid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_listview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_navigationbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_navigationlist.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_navigationtree.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_simplemenubar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_tabcontainer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_templategrids.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/components/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/customwidgets/_progress-bar-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/customwidgets/_progress-circle-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/customwidgets/_range-slider-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/customwidgets/_slider-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/customwidgets/_star-rating-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/customwidgets/_switchwidget.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/layouts/_layout-atlas-phone.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/layouts/_layout-atlas-responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/layouts/_layout-atlas-tablet.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/layouts/_layout-atlas.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/theme/styles/sass/lib/lib.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.github/ISSUE_TEMPLATE/general-question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/commons-io-2.6.jar.CommunityCommons.RequiredLib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/commons-lang3-3.7.jar.CommunityCommons.RequiredLib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/commons-logging-1.2.jar.CommunityCommons.RequiredLib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/fontbox-2.0.11.jar.CommunityCommons.RequiredLib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/guava-19.0.jar.CommunityCommons.RequiredLib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/owasp-java-html-sanitizer-20180219.1.jar.CommunityCommons.RequiredLib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/pdfbox-2.0.11.jar.CommunityCommons.RequiredLib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/AnalysisCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/Bar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/BaseBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/BaseStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/BaseTimeSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/BaseTradingRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/Indicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/Rule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/Strategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/TimeSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/TimeSeriesBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/TimeSeriesManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/Trade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/TradingRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/CashFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/AbstractAnalysisCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/AverageProfitCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/AverageProfitableTradesCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/BuyAndHoldCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/LinearTransactionCostCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/MaximumDrawdownCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/NumberOfBarsCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/NumberOfTradesCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/ProfitLossCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/RewardRiskRatioCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/TotalProfitCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/VersusBuyAndHoldCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/criteria/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/analysis/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ATRIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/AbstractEMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/AbstractIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/AccelerationDecelerationIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/AroonDownIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/AroonOscillatorIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/AroonUpIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/AwesomeOscillatorIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/CCIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/CMOIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/CachedIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ChandelierExitLongIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ChandelierExitShortIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ChopIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/CoppockCurveIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/DPOIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/DoubleEMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/EMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/FisherIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/HMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/KAMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/MACDIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/MMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/MassIndexIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/PPOIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ParabolicSarIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/RAVIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ROCIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/RSIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/RWIHighIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/RWILowIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/RecursiveCachedIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/SMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/StochasticOscillatorDIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/StochasticOscillatorKIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/StochasticRSIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/TripleEMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/UlcerIndexIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/WMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/WilliamsRIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ZLEMAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/adx/ADXIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/adx/MinusDIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/adx/PlusDIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/adx/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/bollinger/BollingerBandWidthIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/bollinger/BollingerBandsLowerIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/bollinger/BollingerBandsMiddleIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/bollinger/BollingerBandsUpperIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/bollinger/PercentBIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/bollinger/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/BearishEngulfingIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/BearishHaramiIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/BullishEngulfingIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/BullishHaramiIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/DojiIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/LowerShadowIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/RealBodyIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/ThreeBlackCrowsIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/ThreeWhiteSoldiersIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/UpperShadowIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/candles/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/AbsoluteIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/AmountIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/BooleanTransformIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/CloseLocationValueIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/ClosePriceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/ConstantIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/ConvergenceDivergenceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/CrossIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/DXIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/DecimalTransformIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/DifferenceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/DifferencePercentage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/FixedBooleanIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/FixedDecimalIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/FixedIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/GainIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/HighestValueIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/LossIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/LowestValueIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/MaxPriceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/MedianPriceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/MinPriceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/MinusDMIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/MultiplierIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/OpenPriceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/PlusDMIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/PreviousValueIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/PriceVariationIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/SumIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/TRIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/TradeCountIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/TypicalPriceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/VolumeIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/helpers/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ichimoku/AbstractIchimokuLineIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ichimoku/IchimokuChikouSpanIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ichimoku/IchimokuKijunSenIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ichimoku/IchimokuSenkouSpanAIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ichimoku/IchimokuSenkouSpanBIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ichimoku/IchimokuTenkanSenIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/ichimoku/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/keltner/KeltnerChannelLowerIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/keltner/KeltnerChannelMiddleIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/keltner/KeltnerChannelUpperIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/keltner/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/DeMarkPivotPointIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/DeMarkReversalIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/FibonacciReversalIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/PivotLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/PivotPointIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/StandardReversalIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/TimeLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/pivotpoints/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/CorrelationCoefficientIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/CovarianceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/MeanDeviationIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/PearsonCorrelationIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/PeriodicalGrowthRateIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/SigmaIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/SimpleLinearRegressionIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/StandardDeviationIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/StandardErrorIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/VarianceIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/statistics/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/AccumulationDistributionIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/ChaikinMoneyFlowIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/ChaikinOscillatorIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/IIIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/MVWAPIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/NVIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/OnBalanceVolumeIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/PVIIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/ROCVIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/VWAPIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/indicators/volume/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/num/DoubleNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/num/NaN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/num/Num.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/num/PrecisionNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/num/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/AbstractRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/AndRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/BooleanIndicatorRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/BooleanRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/CrossedDownIndicatorRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/CrossedUpIndicatorRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/FixedRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/InPipeRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/InSlopeRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/IsEqualRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/IsFallingRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/IsHighestRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/IsLowestRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/IsRisingRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/JustOnceRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/NotRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/OrRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/OverIndicatorRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/StopGainRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/StopLossRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/TrailingStopLossRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/UnderIndicatorRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/WaitForRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/XorRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/main/java/org/ta4j/core/trading/rules/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/BarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/CriterionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/ExternalCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/ExternalIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/IndicatorFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/IndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/OrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/SeriesBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/TestUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/TimeSeriesManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/TimeSeriesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/TradeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/TradingRecordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/XlsTestsUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/CashFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/AbstractAnalysisCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/AbstractCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/AverageProfitCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/AverageProfitableTradesCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/BuyAndHoldCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/LinearTransactionCostCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/MaximumDrawdownCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/NumberOfBarsCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/NumberOfTradesCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/ProfitLossCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/RewardRiskRatioCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/TotalProfitCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/VersusBuyAndHoldCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/XLSCriterionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ATRIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/AbstractIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/AccelerationDecelerationIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/AroonDownIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/AroonOscillatorIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/AroonUpIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/AwesomeOscillatorIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/CCIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/CMOIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/CachedIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ChandelierExitLongIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ChandelierExitShortIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ChopIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/CoppockCurveIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/DPOIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/DoubleEMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/EMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/FisherIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/HMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/KAMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/MMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/MassIndexIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/PPOIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ParabolicSarIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/RAVIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ROCIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/RSIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/RWIHighIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/RWILowIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/SMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/StochasticOscillatorDIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/StochasticOscillatorKIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/StochasticRSIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/TripleEMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/UlcerIndexIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/WMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/WilliamsRIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/XLSIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ZLEMAIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/adx/ADXIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/adx/MinusDIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/adx/PlusDIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/bollinger/BollingerBandWidthIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/bollinger/BollingerBandsLowerIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/bollinger/BollingerBandsMiddleIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/bollinger/BollingerBandsUpperIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/bollinger/PercentBIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/BearishEngulfingIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/BearishHaramiIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/BullishEngulfingIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/BullishHaramiIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/DojiIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/LowerShadowIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/RealBodyIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/ThreeBlackCrowsIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/ThreeWhiteSoldiersIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/candles/UpperShadowIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/AbsoluteIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/AmountIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/BooleanTransformIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/CloseLocationValueIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/ClosePriceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/ConstantIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/ConvergenceDivergenceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/DecimalTransformIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/DifferenceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/DifferencePercentageIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/FixedIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/GainIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/HighestValueIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/LossIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/LowestValueIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/MaxPriceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/MedianPriceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/MinPriceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/MinusDMIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/MultiplierIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/OpenPriceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/PlusDMIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/PreviousValueIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/PriceVariationIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/SumIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/TRIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/TradeCountIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/TypicalPriceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/helpers/VolumeIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/ichimoku/IchimokuIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/keltner/KeltnerChannelLowerIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/keltner/KeltnerChannelMiddleIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/keltner/KeltnerChannelUpperIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/pivotpoints/PivotPointIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/CorrelationCoefficientIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/CovarianceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/MeanDeviationIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/PearsonCorrelationIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/PeriodicalGrowthRateIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/SigmaIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/SimpleLinearRegressionIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/StandardDeviationIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/StandardErrorIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/statistics/VarianceIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/AccumulationDistributionIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/ChaikinMoneyFlowIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/ChaikinOscillatorIndicatorTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/IIIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/MVWAPIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/NVIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/OnBalanceVolumeIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/PVIIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/ROCVIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/indicators/volume/VWAPIndicatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/mocks/MockAnalysisCriterion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/mocks/MockBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/mocks/MockIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/mocks/MockTimeSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/mocks/MockTradingRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/num/NumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/num/PrecisionNumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/AndRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/BooleanIndicatorRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/BooleanRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/CrossedDownIndicatorRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/CrossedUpIndicatorRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/FixedRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/InPipeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/InSlopeRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/IsEqualRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/IsFallingRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/IsHighestRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/IsLowestRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/IsRisingRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/JustOnceRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/NotRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/OrRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/OverIndicatorRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/StopGainRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/StopLossRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/TrailingStopLossRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/UnderIndicatorRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/WaitForRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/java/org/ta4j/core/trading/rules/XorRuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/analysis/criteria/LTC.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/AAPL_StochRSI.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/ATR.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/EMA.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/MMA.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/RSI.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/RWIHL.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/SMA.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/indicators/adx/ADX.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-core/src/test/resources/org/ta4j/core/num/numTest.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/Quickstart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/analysis/BuyAndSellSignalsToChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/analysis/CashFlowToChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/analysis/StrategyAnalysis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/backtesting/SimpleMovingAverageBacktesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/bots/TradingBotOnMovingTimeSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/indicators/CandlestickChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/indicators/CandlestickChartWithChopIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/indicators/IndicatorsToChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/indicators/IndicatorsToCsv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/loaders/CsvBarsLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/loaders/CsvTradesLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/logging/StrategyExecutionLogging.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/num/CompareNumTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/strategies/CCICorrectionStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/strategies/GlobalExtremaStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/strategies/MovingMomentumStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/strategies/RSI2Strategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/timeSeries/BuildTimeSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/java/ta4jexamples/walkforward/WalkForward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/resources/appleinc_bars_from_20130101_usd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/resources/bitstamp_trades_from_20131125_usd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/main/resources/logback-traces.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/QuickstartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/analysis/BuyAndSellSignalsToChartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/analysis/CashFlowToChartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/analysis/StrategyAnalysisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/backtesting/SimpleMovingAverageBacktestingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/bots/TradingBotOnMovingTimeSeriesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/indicators/CandlestickChartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/indicators/IndicatorsToChartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/indicators/IndicatorsToCsvTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/loaders/CsvBarsLoaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/loaders/CsvTradesLoaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/logging/StrategyExecutionLoggingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/num/CompareNumTypesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/strategies/CCICorrectionStrategyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/strategies/GlobalExtremaStrategyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/strategies/MovingMomentumStrategyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/strategies/RSI2StrategyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/timeSeries/BuildTimeSeriesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/userlib/ta4j-examples/src/test/java/ta4jexamples/walkforward/WalkForwardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/Charts.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/DropDownSort.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/DynamicImage.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/GoogleMaps.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/ListViewControls.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/MobileFeatures.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/ProgressBar.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/ProgressCircle.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/SprintrFeedbackWidget.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/StarRating.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/Switch.mpk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline-main/widgets/TimeSeries.mpk" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +553,8 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,8 +580,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1869" />
-    <option name="y" value="-17" />
+    <option name="x" value="-1632" />
+    <option name="y" value="-24" />
     <option name="width" value="1546" />
     <option name="height" value="868" />
   </component>
@@ -53,6 +591,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -65,7 +604,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,17 +638,13 @@
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -118,14 +652,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25051975" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
