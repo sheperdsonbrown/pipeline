@@ -1,0 +1,117 @@
+{
+  "RuntimeVersion": "7.18.1.40272",
+  "ProjectID": "8e6553b4-d11f-48f8-965a-5bdaab959273",
+  "ProjectName": "Pipeline",
+  "ModelVersion": "1.0.0.32",
+  "Description": "",
+  "AdminUser": "MxAdmin",
+  "Roles": {
+    "8dd52bfa-6d7e-453b-b506-303c0a3d9567": {
+      "Name": "Administrator",
+      "ManageableRoles": [
+        "8dd52bfa-6d7e-453b-b506-303c0a3d9567",
+        "53f5d6fa-6da9-4a71-b011-454ec052cce8"
+      ]
+    },
+    "53f5d6fa-6da9-4a71-b011-454ec052cce8": {
+      "Name": "User"
+    }
+  },
+  "AdminRole": "8dd52bfa-6d7e-453b-b506-303c0a3d9567",
+  "Constants": [
+    {
+      "Name": "CommunityCommons.MergeMultiplePdfs_MaxAtOnce",
+      "Type": "Integer",
+      "Description": "Restricted to 10 files at once for Mendix Cloud v4 compatibility. If you need to merge more than 10 files increase the number here. Setting the value to <=0 means unlimited.\r\n\r\nNote: We very strongly recommend to not increase the number for applications running in Mendix Cloud v4.",
+      "DefaultValue": "10"
+    }
+  ],
+  "ScheduledEvents": [
+    {
+      "Name": "Test.SE_GetSecurities",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_HIST",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_10m",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_1D",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_1H",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_1m",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_2H",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_30m",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_4H",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_5m",
+      "Description": ""
+    },
+    {
+      "Name": "Test.SE_REST_6H",
+      "Description": ""
+    }
+  ],
+  "RequestHandlers": [
+    {
+      "Name": "/api/",
+      "DefaultEnabled": true,
+      "MatchExactly": false
+    },
+    {
+      "Name": "/link/",
+      "DefaultEnabled": true,
+      "MatchExactly": false
+    },
+    {
+      "Name": "/ws/",
+      "DefaultEnabled": false,
+      "MatchExactly": false
+    },
+    {
+      "Name": "/ws-doc/",
+      "DefaultEnabled": false,
+      "MatchExactly": false
+    },
+    {
+      "Name": "/odata/",
+      "DefaultEnabled": false,
+      "MatchExactly": false
+    },
+    {
+      "Name": "/odata-doc/",
+      "DefaultEnabled": false,
+      "MatchExactly": false
+    },
+    {
+      "Name": "/api-doc/",
+      "DefaultEnabled": true,
+      "MatchExactly": false
+    },
+    {
+      "Name": "/p/",
+      "DefaultEnabled": false,
+      "MatchExactly": false
+    }
+  ]
+}
