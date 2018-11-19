@@ -2,7 +2,7 @@
   "RuntimeVersion": "7.18.1.40272",
   "ProjectID": "8e6553b4-d11f-48f8-965a-5bdaab959273",
   "ProjectName": "Pipeline",
-  "ModelVersion": "1.0.0.34",
+  "ModelVersion": "1.0.0.36",
   "Description": "",
   "AdminUser": "MxAdmin",
   "Roles": {
@@ -69,6 +69,10 @@
     },
     {
       "Name": "Test.SE_REST_6H",
+      "Description": ""
+    },
+    {
+      "Name": "ETL.SE_ChangeQuotes",
       "Description": ""
     }
   ],
